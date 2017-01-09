@@ -1,0 +1,34 @@
+[{
+	"category": "Retails",
+	"city": "Milwaukee",
+	"company": "JumpX",
+	"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+	"email": "skhaw@jump.com",
+	"phone": "9862-2342-234",
+	"state": "Wisconsin",
+	"street_address": "856 Sheridian Terrace",
+	"years_in_business": 7,
+	"zipcode": "53425"
+}, {
+	"category": "Market",
+	"city": "Cupertino",
+	"company": "Adkit",
+	"description": "Of the printing and typesetting industry",
+	"email": "loren@adkit.com",
+	"phone": "1-45840-3242",
+	"state": "California",
+	"street_address": "234 Apple loop",
+	"years_in_business": 3,
+	"zipcode": "43424"
+}, {
+	"category": "Research",
+	"city": "Silicon valley",
+	"company": "Spatial Research Center",
+	"description": "Lorem typesetting industry",
+	"email": "john@spatial.com",
+	"phone": "677-324-23423",
+	"state": "CA",
+	"street_address": "9994 Hilton Lake view",
+	"years_in_business": 5,
+	"zipcode": "62384"
+}]
